@@ -13,7 +13,6 @@ public abstract class Organization {
 	}
 
 	protected abstract Position createOrganization();
-
 	/**
 	 * hire the given person as an employee in the position that has that title
 	 *
